@@ -1,6 +1,7 @@
 # Task Tracker CLI
 
-**Project:** [https://github.com/amythp138/Task-Tracker-CLI](https://github.com/amythp138/Task-Tracker-CLI)
+**Repository:** [github.com/amythp138/Task-Tracker-CLI](https://github.com/amythp138/Task-Tracker-CLI)  
+**Project:** [roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 A simple command-line task tracker. Add, update, delete, and list tasks with statuses (todo, in progress, done). Tasks are stored in a local `tasks.json` file.
 
