@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+**Project:** [https://github.com/amythp138/Task-Tracker-CLI](https://github.com/amythp138/Task-Tracker-CLI)
+
 A simple command-line task tracker. Add, update, delete, and list tasks with statuses (todo, in progress, done). Tasks are stored in a local `tasks.json` file.
 
 ## Features
